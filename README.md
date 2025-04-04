@@ -26,6 +26,7 @@ This repository contains a full-stack stock watching application built with Djan
    ```bash
    pip install -r requirements.txt
    ```
+   note: All dependencies may not be present in requirements. You may need to debug
 
 3. **Configure your environment variables:**  
    Create a `.env` file (or set environment variables) for settings such as your Django secret key, database connection, API keys (e.g., Alpha Vantage), email settings, etc.
